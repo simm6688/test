@@ -4,7 +4,7 @@
 # Author: Ajiujiu
 #=================================================
 
-name: Acrh17_with_docker Openwrt
+name: test Openwrt
 
 on:
   #  release:
